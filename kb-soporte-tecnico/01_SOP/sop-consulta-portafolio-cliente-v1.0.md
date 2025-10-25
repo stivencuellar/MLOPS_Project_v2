@@ -8,8 +8,8 @@ vendor: Neutral
 modelos: [CRM, OSS]
 ambito: soporte-tecnico
 idioma: es-CO
-autor: operaciones-soporte
-revision_por: supervisor-noc
+autor: operaciones-soporte EH
+revision_por: supervisor EH
 fecha_publicacion: 2025-10-24
 fecha_vigencia_desde: 2025-10-24
 criticidad: baja
@@ -44,6 +44,5 @@ Permitir que un técnico de campo consulte el portafolio completo del cliente de
 > - 3 decodificadores activos
 > - Banda ancha 500 Mb
 > - Paquete premium HBO activo
->
 
 ---

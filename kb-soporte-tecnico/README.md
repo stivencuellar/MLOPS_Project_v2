@@ -1,6 +1,4 @@
-# 🚀 TAXONOMÍA DE LA CARPETA `kb-soporte-tecnico`Estructura 
-
-
+# 🚀 TAXONOMÍA DE LA CARPETA `kb-soporte-tecnico`Estructura
 
 # 📚 Base de Conocimiento – Soporte Técnico FTTH
 
@@ -18,7 +16,6 @@ Organizar y centralizar la información técnica de soporte para:
 
 ## 🗂️ Estructura del repositorio
 
-
 kb-soporte-tecnico/
 ├── SOP/           → Procedimientos operativos estándar
 ├── Playbooks/     → Árboles de diagnóstico y resolución de fallas
@@ -28,7 +25,6 @@ kb-soporte-tecnico/
 └── README.md      → Este archivo (guía general)
 
 <pre class="overflow-visible!" data-start="1394" data-end="1653"><div class="contain-inline-size rounded-2xl relative bg-token-sidebar-surface-primary"><div class="sticky top-9"><div class="absolute end-0 bottom-0 flex h-9 items-center pe-2"><div class="bg-token-bg-elevated-secondary text-token-text-secondary flex items-center gap-4 rounded-sm px-2 font-sans text-xs"></div></div></div><div class="overflow-y-auto p-4" dir="ltr"></div></div></pre>
-
 
 ## 1️⃣ **📁 SOP/** — *Procedimientos operativos estándar*
 
@@ -57,7 +53,6 @@ Son las “recetas” de operación que el agente usará para dar pasos claros y
 ### 🧩 Uso por el agente:
 
 Cuando el técnico pregunte *“¿Cómo provisiono una ONT Huawei?”*, el agente buscará un SOP con las etiquetas `[provisionamiento, huawei, ont]` y devolverá los pasos desde ese documento.
-
 
 ## 2️⃣ **📁 Playbooks/** — *Guías de diagnóstico o resolución de fallas*
 
@@ -91,7 +86,7 @@ Cuando la consulta es “ONT con LOS, potencia -28 dBm, O5 no levanta”, el age
 
 ### 📌 Propósito:
 
-Almacenar los **comandos técnicos** por fabricante, modelo o entorno (OLT, router, CPE).
+Almacenar los **comandos técnicos** por fabricante, modelo o entorno (OLT, router, CPE). O accesos a las APIS o CRM
 Ayuda al agente a traducir intenciones humanas en comandos concretos.
 
 ### 📋 Contenido típico:
