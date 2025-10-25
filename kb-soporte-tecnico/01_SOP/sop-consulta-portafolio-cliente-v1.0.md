@@ -9,15 +9,16 @@ modelos: [CRM, OSS]
 ambito: soporte-tecnico
 idioma: es-CO
 autor: operaciones-soporte
-revision_por: supervisor-noc
+revision_por: supervisor
 fecha_publicacion: 2025-10-24
 fecha_vigencia_desde: 2025-10-24
 criticidad: baja
-tags: [consulta, portafolio, cliente, megas, contratada, contratado, cantidad, canales, premium, HBO]
+tags: [telegram, bot, consulta, portafolio, cliente, megas, contratada, contratado, cantidad, canales, premium, HBO]
 precondiciones: [
   "Técnico autenticado en el bot de Telegram",
   "Cliente identificado por número de servicio o contrato",
   "Sistema CRM disponible"
+  "El técnico debe tener un ID de visita o número de servicio válido"
 ]
 riesgos: [
   "Divulgación de información sensible si no se valida identidad del técnico"
@@ -36,6 +37,7 @@ Permitir que un técnico de campo consulte el portafolio completo del cliente de
 1. El técnico ingresa el ID Visita .
 2. El bot valida el ID Visita.
 3. El flujo en n8n consulta el CRM y devuelve velocidad, decodificadores y paquetes activos.
+4. El técnico recibe un mensaje con los datos del cliente.
 
 # Ejemplo de salida
 
@@ -44,6 +46,10 @@ Permitir que un técnico de campo consulte el portafolio completo del cliente de
 > - 3 decodificadores activos
 > - Banda ancha 500 Mb
 > - Paquete premium HBO activo
->
 
 ---
+
+# Validación
+
+- Confirmar que la información entregada coincide con el CRM.
+- Registrar en OSS la consulta realizada.

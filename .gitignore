@@ -110,7 +110,7 @@ dmypy.json
 *.arff
 *.libsvm
 *.txt
-*.json
+
 *.xml
 *.yaml
 *.yml

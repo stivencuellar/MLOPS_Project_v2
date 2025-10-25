@@ -1,0 +1,181 @@
+[
+  {
+    "id_cliente": "31544000",
+    "nombre": "Diego Cortés",
+    "velocidad": "1Gb",
+    "decodificadores": 4,
+    "paquetes": [
+      "HBO",
+      "Netflix"
+    ]
+  },
+  {
+    "id_cliente": "31544001",
+    "nombre": "Camila García",
+    "velocidad": "200Mb",
+    "decodificadores": 2,
+    "paquetes": [
+      "Netflix"
+    ]
+  },
+  {
+    "id_cliente": "31544002",
+    "nombre": "Laura Vargas",
+    "velocidad": "200Mb",
+    "decodificadores": 1,
+    "paquetes": [
+      "Netflix"
+    ]
+  },
+  {
+    "id_cliente": "31544003",
+    "nombre": "Sebastián Castro",
+    "velocidad": "1Gb",
+    "decodificadores": 3,
+    "paquetes": [
+      "HBO",
+      "Netflix"
+    ]
+  },
+  {
+    "id_cliente": "31544004",
+    "nombre": "Tomás Ramírez",
+    "velocidad": "500Mb",
+    "decodificadores": 4,
+    "paquetes": [
+      "Netflix"
+    ]
+  },
+  {
+    "id_cliente": "31544005",
+    "nombre": "Felipe Jiménez",
+    "velocidad": "500Mb",
+    "decodificadores": 4,
+    "paquetes": []
+  },
+  {
+    "id_cliente": "31544006",
+    "nombre": "Camila Navarro",
+    "velocidad": "300Mb",
+    "decodificadores": 2,
+    "paquetes": [
+      "Disney+"
+    ]
+  },
+  {
+    "id_cliente": "31544007",
+    "nombre": "Laura Castro",
+    "velocidad": "600Mb",
+    "decodificadores": 1,
+    "paquetes": [
+      "Disney+"
+    ]
+  },
+  {
+    "id_cliente": "31544008",
+    "nombre": "Andrés Cortés",
+    "velocidad": "300Mb",
+    "decodificadores": 1,
+    "paquetes": []
+  },
+  {
+    "id_cliente": "31544009",
+    "nombre": "Tomás Reyes",
+    "velocidad": "500Mb",
+    "decodificadores": 2,
+    "paquetes": [
+      "Star+"
+    ]
+  },
+  {
+    "id_cliente": "31544010",
+    "nombre": "Mateo Gómez",
+    "velocidad": "1Gb",
+    "decodificadores": 2,
+    "paquetes": [
+      "Disney+"
+    ]
+  },
+  {
+    "id_cliente": "31544011",
+    "nombre": "Carlos Jiménez",
+    "velocidad": "200Mb",
+    "decodificadores": 4,
+    "paquetes": [
+      "Paramount+"
+    ]
+  },
+  {
+    "id_cliente": "31544012",
+    "nombre": "Juan Mejía",
+    "velocidad": "1Gb",
+    "decodificadores": 4,
+    "paquetes": [
+      "HBO",
+      "Netflix"
+    ]
+  },
+  {
+    "id_cliente": "31544013",
+    "nombre": "Sebastián Cortés",
+    "velocidad": "500Mb",
+    "decodificadores": 1,
+    "paquetes": [
+      "Disney+"
+    ]
+  },
+  {
+    "id_cliente": "31544014",
+    "nombre": "Felipe Navarro",
+    "velocidad": "1Gb",
+    "decodificadores": 1,
+    "paquetes": [
+      "Netflix"
+    ]
+  },
+  {
+    "id_cliente": "31544015",
+    "nombre": "Laura Martínez",
+    "velocidad": "300Mb",
+    "decodificadores": 1,
+    "paquetes": [
+      "Paramount+"
+    ]
+  },
+  {
+    "id_cliente": "31544016",
+    "nombre": "Tomás Rojas",
+    "velocidad": "1Gb",
+    "decodificadores": 4,
+    "paquetes": [
+      "Netflix"
+    ]
+  },
+  {
+    "id_cliente": "31544017",
+    "nombre": "Camila Mejía",
+    "velocidad": "600Mb",
+    "decodificadores": 4,
+    "paquetes": [
+      "Paramount+"
+    ]
+  },
+  {
+    "id_cliente": "31544018",
+    "nombre": "Sebastián Pérez",
+    "velocidad": "100Mb",
+    "decodificadores": 3,
+    "paquetes": [
+      "Paramount+"
+    ]
+  },
+  {
+    "id_cliente": "31544019",
+    "nombre": "Julián Ramírez",
+    "velocidad": "600Mb",
+    "decodificadores": 2,
+    "paquetes": [
+      "Paramount+"
+    ]
+  }
+]
