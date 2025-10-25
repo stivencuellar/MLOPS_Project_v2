@@ -8,12 +8,12 @@ vendor: Neutral
 modelos: [CRM, OSS]
 ambito: soporte-tecnico
 idioma: es-CO
-autor: operaciones-soporte EH
-revision_por: supervisor EH
+autor: operaciones-soporte
+revision_por: supervisor
 fecha_publicacion: 2025-10-26
 fecha_vigencia_desde: 2025-10-26
 criticidad: media
-tags: [telegram, crm, error, portafolio, soporte]
+tags: [n8n, bot, telegram, crm, error, portafolio, soporte]
 precondiciones: [
   "El técnico intenta consultar portafolio vía bot Telegram",
   "El bot o el CRM devuelve error 404, 401 o 500"
@@ -31,6 +31,12 @@ validaciones_salida: [
 # Falla
 
 El técnico no recibe respuesta del bot o el sistema devuelve error durante la consulta de portafolio del cliente.
+
+**Síntomas comunes:**
+
+- El bot muestra “Error 404 / Cliente no encontrado”.
+- El bot no responde tras más de 15 segundos.
+- El flujo en n8n queda detenido en el nodo “HTTP Request”.
 
 ---
 
