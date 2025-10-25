@@ -14,16 +14,27 @@ Este documento registra los cambios, adiciones y actualizaciones realizados sobr
   **Autor:** operaciones-soporte EH
   **Revisor:** supervisor-EH
 
----
+### 🆕 [Agregado]
 
-## [Plantilla para próximos registros]
+- **Playbook:** playbook-error-consulta-portafolio-v1.0nombre-del-archivo.md
+  Guía de diagnóstico para errores en la consulta del portafolio (bot, CRM o flujo n8n).Breve descripción del nuevo documento creado.
+  **Autor:** Eliana Henao<nombre>
+  **Revisor:** Eliana Henao
 
 ### 🆕 [Agregado]
 
-- **SOP:** nombre-del-archivo.md
-  Breve descripción del nuevo documento creado.
-  **Autor:** <nombre>
-  **Revisor:** <nombre>
+- **Catalogo:** catalogo-crm-portafolio-v1.0playbook-error-consulta-portafolio-v1.0nombre-del-archivo.md
+  ocumentación del endpoint simulado (JSON en GitHub) usado como fuente de datos para el agente.Guía de diagnóstico para errores en la consulta del portafolio (bot, CRM o flujo n8n).
+  **Autor:** Eliana Henao<nombre>
+  **Revisor:** Eliana Henao
+-
+
+### 🆕 [Agregado]
+
+- **Data:** cliente_portafolio.jason
+  Simulacion de una base de datos de 20 clientes con informacion de su portafolio
+  **Autor:** Eliana Henao<nombre>
+  **Revisor:** Eliana Henao
 
 ### ✏️ [Modificado]
 
@@ -38,3 +49,19 @@ Este documento registra los cambios, adiciones y actualizaciones realizados sobr
   Corrección de formato o error menor (sin cambio de versión).
 
 ---
+
+
+### 🆕 [Agregado]
+
+- **Playbook:** playbook-error-consulta-portafolio-v1.0nombre-del-archivo.md
+  Guía de diagnóstico para errores en la consulta del portafolio (bot, CRM o flujo n8n).Breve descripción del nuevo documento creado.
+  **Autor:** Eliana Henao<nombre>
+  **Revisor:** Eliana Henao
+
+
+### 🆕 [Agregado]
+
+- **Playbook:** playbook-error-consulta-portafolio-v1.0nombre-del-archivo.md
+  Guía de diagnóstico para errores en la consulta del portafolio (bot, CRM o flujo n8n).Breve descripción del nuevo documento creado.
+  **Autor:** Eliana Henao<nombre>
+  **Revisor:** Eliana Henao
