@@ -1,8 +1,3 @@
----
-
-
----
-id: catalogo-crm-portafolio-simulado
 titulo: Catálogo de consulta de portafolio (fuente JSON en GitHub)
 version: "1.0"
 estado: vigente
@@ -31,15 +26,13 @@ validaciones_salida: [
 "Estructura con campos esperados",
 "Coincidencia exacta por id_cliente"
 ]
--
-
+---
 # Objetivo
 
 Definir el uso del archivo JSON alojado en GitHub que actúa como base simulada del CRM para que el flujo n8n o el agente IA pueda consultar el portafolio del cliente de forma controlada y repetible.
 
----
-
 # Endpoint simulado (lectura)
 
 **Método:** `GET`
-**URL base (ejemplo): * [raw.githubusercontent.com/stivencuellar/MLOPS\_Project\_v2/refs/heads/main/data/clientes\_portafolio.json](https://raw.githubusercontent.com/stivencuellar/MLOPS_Project_v2/refs/heads/main/data/clientes_portafolio.json)
+**URL base (ejemplo):**
+[https://raw.githubusercontent.com/stivencuellar/MLOPS_Project_v2/main/data/clientes_portafolio.json](https://raw.githubusercontent.com/stivencuellar/MLOPS_Project_v2/main/data/clientes_portafolio.json)
