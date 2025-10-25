@@ -1,3 +1,4 @@
+---
 titulo: Catálogo de consulta de portafolio (fuente JSON en GitHub)
 version: "1.0"
 estado: vigente
@@ -6,7 +7,7 @@ vendor: Neutral
 modelos: [CRM-SIMULADO]
 ambito: soporte-aplicativo
 idioma: es-CO
-autor: operaciones-soporte EH
+autor: operaciones-soporte
 revision_por: equipo-ti
 fecha_publicacion: 2025-10-25
 fecha_vigencia_desde: 2025-10-25
@@ -26,6 +27,7 @@ validaciones_salida: [
 "Estructura con campos esperados",
 "Coincidencia exacta por id_cliente"
 ]
+-
 ---
 # Objetivo
 
@@ -36,3 +38,23 @@ Definir el uso del archivo JSON alojado en GitHub que actúa como base simulada 
 **Método:** `GET`
 **URL base (ejemplo):**
 [https://raw.githubusercontent.com/stivencuellar/MLOPS_Project_v2/main/data/clientes_portafolio.json](https://raw.githubusercontent.com/stivencuellar/MLOPS_Project_v2/main/data/clientes_portafolio.json)
+
+
+
+# Estructura del JSON
+
+
+| Campo             | Tipo    | Descripción                       |
+| ----------------- | ------- | ---------------------------------- |
+| `id_cliente`      | string  | Identificador único del cliente   |
+| `nombre`          | string  | Nombre completo del cliente        |
+| `velocidad`       | string  | Velocidad de conexión contratada  |
+| `decodificadores` | integer | Número de decodificadores activos |
+| `paquetes`        | array   | Lista de paquetes premium activos  |
+
+
+
+# Escenario futuro
+
+Este catálogo corresponde a un entorno académico.
+En implementación real, este recurso será reemplazado por un endpoint REST del CRM corporativo, con autenticación y control de acceso.
