@@ -36,6 +36,14 @@ Este documento registra los cambios, adiciones y actualizaciones realizados sobr
   **Autor:** Eliana Henao<nombre>
   **Revisor:** Eliana Henao
 
+
+### 🆕 [Agregado]
+
+- **FAQs:** faq-consulta-portafolio-v1.0
+  Preguntas frecuentes sobre el flujo de consulta de portafolio en Telegram.
+  **Autor:** Eliana Henao<nombre>
+  **Revisor:** Eliana Henao
+
 ### ✏️ [Modificado]
 
 - **SOP:** nombre-del-archivo.md
@@ -50,14 +58,12 @@ Este documento registra los cambios, adiciones y actualizaciones realizados sobr
 
 ---
 
-
 ### 🆕 [Agregado]
 
 - **Playbook:** playbook-error-consulta-portafolio-v1.0nombre-del-archivo.md
   Guía de diagnóstico para errores en la consulta del portafolio (bot, CRM o flujo n8n).Breve descripción del nuevo documento creado.
   **Autor:** Eliana Henao<nombre>
   **Revisor:** Eliana Henao
-
 
 ### 🆕 [Agregado]
 
