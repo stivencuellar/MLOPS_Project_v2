@@ -37,9 +37,7 @@ Definir el uso del archivo JSON alojado en GitHub que actúa como base simulada 
 
 **Método:** `GET`
 **URL base (ejemplo):**
-[https://raw.githubusercontent.com/stivencuellar/MLOPS_Project_v2/main/data/clientes_portafolio.json](https://raw.githubusercontent.com/stivencuellar/MLOPS_Project_v2/main/data/clientes_portafolio.json)
-
-
+https://raw.githubusercontent.com/stivencuellar/MLOPS_Project_v2/refs/heads/main/kb-soporte-tecnico/Data/clientes_portafolio.json
 
 # Estructura del JSON
 
@@ -51,8 +49,6 @@ Definir el uso del archivo JSON alojado en GitHub que actúa como base simulada 
 | `velocidad`       | string  | Velocidad de conexión contratada  |
 | `decodificadores` | integer | Número de decodificadores activos |
 | `paquetes`        | array   | Lista de paquetes premium activos  |
-
-
 
 # Escenario futuro
 
