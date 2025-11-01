@@ -57,22 +57,47 @@ Este documento registra los cambios, adiciones y actualizaciones realizados sobr
 
 ## [2025-10-25]
 
-🆕 [Data]
+🆕 [Agregado]
 
-- **Data:** cliente_EQclientes.jason
+- **Data:** clientes_equipos.json
   Simulacion de los equipos instalados en los clientes, los datos de lso clientes ID y nombre corrsponden a los clientes que se construyeron para  informacion de su portafolio
-- URLRAW: [raw.githubusercontent.com/stivencuellar/MLOPS\_Project\_v2/refs/heads/main/kb-soporte-tecnico/Data/clientes\_EQclientes.json](https://raw.githubusercontent.com/stivencuellar/MLOPS_Project_v2/refs/heads/main/kb-soporte-tecnico/Data/clientes_EQclientes.json)
+- URLRAW: [raw.githubusercontent.com/stivencuellar/MLOPS\_Project\_v2/refs/heads/main/kb-soporte-tecnico/Data/clientes\_equipos.json](https://raw.githubusercontent.com/stivencuellar/MLOPS_Project_v2/refs/heads/main/kb-soporte-tecnico/Data/clientes_equipos.json)
   **Autor:** Eliana Henao<nombre>
   **Revisor:** Eliana Henao
 
 ### 🆕 [Agregado]
 
-- **Data:** cliente_Infraclientes.jason
+- **Data:** clientex_Infraestructura.json
   Simulacion de infraestructura asignada a cada cliente, los datos de lso clientes ID y nombre corrsponden a los clientes que se construyeron para  informacion de su portafolio
-- URLRAW:[raw.githubusercontent.com/stivencuellar/MLOPS\_Project\_v2/refs/heads/main/kb-soporte-tecnico/Data/clientes\_infraClientes.json](https://raw.githubusercontent.com/stivencuellar/MLOPS_Project_v2/refs/heads/main/kb-soporte-tecnico/Data/clientes_infraClientes.json)
+- URLRAW:[raw.githubusercontent.com/stivencuellar/MLOPS\_Project\_v2/refs/heads/main/kb-soporte-tecnico/Data/clientes\_infraestructura.json](https://raw.githubusercontent.com/stivencuellar/MLOPS_Project_v2/refs/heads/main/kb-soporte-tecnico/Data/clientes_infraestructura.json)
 - **Autor:** Eliana Henao<nombre>
   **Revisor:** Eliana Henao
 
+🆕 [Agregado]
+
+- **Data:** clientes_parametros.json
+  Simulacion de los parametros de los servicios instalados en los clientes, los datos de lso clientes ID y nombre corrsponden a los clientes que se construyeron para  informacion de su portafolio.
+- los resultados podran ser identificados con estos criterios:
+- potencia_rx: nivel óptico recibido en el ONT (dBm).
+- Normal: entre -15 y -25 dBm
+- Crítico: menor a -27 dBm
+- Fuera de rango alto: mayor a -13 dBm
+- potencia_tx: potencia de transmisión del equipo hacia la red.
+- estado_optico:  calculado con base en `potencia_rx`
+- URLRAW: [raw.githubusercontent.com/stivencuellar/MLOPS\_Project\_v2/refs/heads/main/kb-soporte-tecnico/Data/clientes\_Parametros.json](https://raw.githubusercontent.com/stivencuellar/MLOPS_Project_v2/refs/heads/main/kb-soporte-tecnico/Data/clientes_Parametros.json)
+  **Autor:** Eliana Henao<nombre>
+  **Revisor:** Eliana Henao
+
+🆕 [Agregado]
+
+- **Data:** clientes_diagnostico.json
+  Simulacion de diagnostico del router instalados en los clientes, los datos de lso clientes ID y nombre corrsponden a los clientes que se construyeron para  informacion de su portafolio.
+- estado_router: "Online", "Offline" o "Intermitente"
+- ping_promedio_ms: tiempo promedio de respuesta en milisegundos (5–100 ms)
+- uptime_dias: días desde el último reinicio del equipo
+- URLRAW: [raw.githubusercontent.com/stivencuellar/MLOPS\_Project\_v2/refs/heads/main/kb-soporte-tecnico/Data/clientes\_diagnostico.json](https://raw.githubusercontent.com/stivencuellar/MLOPS_Project_v2/refs/heads/main/kb-soporte-tecnico/Data/clientes_diagnostico.json)
+  **Autor:** Eliana Henao<nombre>
+  **Revisor:** Eliana Henao
 
 
 
