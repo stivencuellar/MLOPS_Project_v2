@@ -1,0 +1,64 @@
+[
+  {
+    "id_cliente": "31544000",
+    "nombre": "Diego Cortés",
+    "equipos": [
+      { "tipo": "Router", "modelo": "ZTE ZXHN F680", "estado": "Activo" },
+      { "tipo": "Decodificador", "modelo": "Arris VIP1113", "estado": "Activo" }
+    ]
+  },
+  {
+    "id_cliente": "31544001",
+    "nombre": "Camila García",
+    "equipos": [
+      { "tipo": "Router", "modelo": "TP-Link Archer AX10", "estado": "Activo" },
+      { "tipo": "ONT", "modelo": "Huawei EchoLife HG8010H", "estado": "Activo" }
+    ]
+  },
+  {
+    "id_cliente": "31544002",
+    "nombre": "Laura Vargas",
+    "equipos": [
+      { "tipo": "Router", "modelo": "Huawei WS5200", "estado": "Activo" },
+      { "tipo": "Decodificador", "modelo": "Motorola VIP1853", "estado": "Activo" }
+    ]
+  },
+  {
+    "id_cliente": "31544003",
+    "nombre": "Sebastián Castro",
+    "equipos": [
+      { "tipo": "Router", "modelo": "ZTE ZXHN F680", "estado": "Activo" },
+      { "tipo": "Decodificador", "modelo": "Arris VIP1113", "estado": "Activo" }
+    ]
+  },
+  {
+    "id_cliente": "31544004",
+    "nombre": "Tomás Ramírez",
+    "equipos": [
+      { "tipo": "Router", "modelo": "Tenda AC8", "estado": "Activo" },
+      { "tipo": "ONT", "modelo": "Huawei EchoLife HG8546M", "estado": "Activo" }
+    ]
+  },
+  {
+    "id_cliente": "31544005",
+    "nombre": "Felipe Jiménez",
+    "equipos": [
+      { "tipo": "Router", "modelo": "TP-Link Archer C7", "estado": "Activo" },
+      { "tipo": "Decodificador", "modelo": "Arris VIP1113", "estado": "Inactivo" }
+    ]
+  },
+  {
+    "id_cliente": "31544006",
+    "nombre": "Camila Navarro",
+    "equipos": [
+      { "tipo": "Router", "modelo": "Huawei WS5200", "estado": "Activo" },
+      { "tipo": "ONT", "modelo": "Huawei EchoLife HG8010H", "estado": "Activo" }
+    ]
+  },
+  {
+    "id_cliente": "31544007",
+    "nombre": "Laura Castro",
+    "equipos": [
+      { "tipo": "Router", "modelo": "Nokia G-240W-F", "estado": "Activo" },
+      { "tipo": "Decodificador", "modelo": "Motorola VIP1853", "estado": "En reparación" }
+   
