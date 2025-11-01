@@ -69,9 +69,11 @@ Este documento registra los cambios, adiciones y actualizaciones realizados sobr
 
 - **Data:** cliente_Infraclientes.jason
   Simulacion de infraestructura asignada a cada cliente, los datos de lso clientes ID y nombre corrsponden a los clientes que se construyeron para  informacion de su portafolio
-- URLRAW: [](https://raw.githubusercontent.com/stivencuellar/MLOPS_Project_v2/refs/heads/main/kb-soporte-tecnico/Data/clientes_EQclientes.json)
-  **Autor:** Eliana Henao<nombre>
+- URLRAW:[raw.githubusercontent.com/stivencuellar/MLOPS\_Project\_v2/refs/heads/main/kb-soporte-tecnico/Data/clientes\_infraClientes.json](https://raw.githubusercontent.com/stivencuellar/MLOPS_Project_v2/refs/heads/main/kb-soporte-tecnico/Data/clientes_infraClientes.json)
+- **Autor:** Eliana Henao<nombre>
   **Revisor:** Eliana Henao
+
+
 
 
 - **Playbook:** playbook-error-consulta-portafolio-v1.0nombre-del-archivo.md

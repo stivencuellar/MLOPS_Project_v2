@@ -1,0 +1,22 @@
+[
+  { "id_cliente": "31544000", "potencia_rx": -18.5, "potencia_tx": 2.0, "estado_optico": "Normal" },
+  { "id_cliente": "31544001", "potencia_rx": -19.2, "potencia_tx": 1.9, "estado_optico": "Normal" },
+  { "id_cliente": "31544002", "potencia_rx": -27.8, "potencia_tx": 2.3, "estado_optico": "Crítico" },
+  { "id_cliente": "31544003", "potencia_rx": -22.4, "potencia_tx": 2.0, "estado_optico": "Normal" },
+  { "id_cliente": "31544004", "potencia_rx": -25.7, "potencia_tx": 1.8, "estado_optico": "Normal" },
+  { "id_cliente": "31544005", "potencia_rx": -14.8, "potencia_tx": 1.7, "estado_optico": "Fuera de rango alto" },
+  { "id_cliente": "31544006", "potencia_rx": -20.9, "potencia_tx": 2.2, "estado_optico": "Normal" },
+  { "id_cliente": "31544007", "potencia_rx": -28.3, "potencia_tx": 2.1, "estado_optico": "Crítico" },
+  { "id_cliente": "31544008", "potencia_rx": -23.6, "potencia_tx": 1.8, "estado_optico": "Normal" },
+  { "id_cliente": "31544009", "potencia_rx": -17.4, "potencia_tx": 2.0, "estado_optico": "Normal" },
+  { "id_cliente": "31544010", "potencia_rx": -26.1, "potencia_tx": 1.9, "estado_optico": "Normal" },
+  { "id_cliente": "31544011", "potencia_rx": -19.7, "potencia_tx": 2.1, "estado_optico": "Normal" },
+  { "id_cliente": "31544012", "potencia_rx": -29.0, "potencia_tx": 2.4, "estado_optico": "Crítico" },
+  { "id_cliente": "31544013", "potencia_rx": -21.5, "potencia_tx": 1.9, "estado_optico": "Normal" },
+  { "id_cliente": "31544014", "potencia_rx": -16.2, "potencia_tx": 2.2, "estado_optico": "Fuera de rango alto" },
+  { "id_cliente": "31544015", "potencia_rx": -18.9, "potencia_tx": 1.8, "estado_optico": "Normal" },
+  { "id_cliente": "31544016", "potencia_rx": -23.1, "potencia_tx": 2.0, "estado_optico": "Normal" },
+  { "id_cliente": "31544017", "potencia_rx": -27.4, "potencia_tx": 2.3, "estado_optico": "Crítico" },
+  { "id_cliente": "31544018", "potencia_rx": -19.4, "potencia_tx": 2.1, "estado_optico": "Normal" },
+  { "id_cliente": "31544019", "potencia_rx": -15.9, "potencia_tx": 1.7, "estado_optico": "Fuera de rango alto" }
+]
