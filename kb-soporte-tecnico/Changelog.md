@@ -55,10 +55,6 @@ Este documento registra los cambios, adiciones y actualizaciones realizados sobr
 - **SOP:** nombre-del-archivo.md
   Corrección de formato o error menor (sin cambio de versión).
 
-
-
-
-
 ## [2025-10-25]
 
 🆕 [Data]
@@ -70,6 +66,13 @@ Este documento registra los cambios, adiciones y actualizaciones realizados sobr
   **Revisor:** Eliana Henao
 
 ### 🆕 [Agregado]
+
+- **Data:** cliente_Infraclientes.jason
+  Simulacion de infraestructura asignada a cada cliente, los datos de lso clientes ID y nombre corrsponden a los clientes que se construyeron para  informacion de su portafolio
+- URLRAW: [](https://raw.githubusercontent.com/stivencuellar/MLOPS_Project_v2/refs/heads/main/kb-soporte-tecnico/Data/clientes_EQclientes.json)
+  **Autor:** Eliana Henao<nombre>
+  **Revisor:** Eliana Henao
+
 
 - **Playbook:** playbook-error-consulta-portafolio-v1.0nombre-del-archivo.md
   Guía de diagnóstico para errores en la consulta del portafolio (bot, CRM o flujo n8n).Breve descripción del nuevo documento creado.
