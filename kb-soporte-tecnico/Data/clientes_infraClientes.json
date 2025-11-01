@@ -1,0 +1,22 @@
+[
+  { "id_cliente": "31544000", "arpon": "254681", "nap": "03", "hilo": "2" },
+  { "id_cliente": "31544001", "arpon": "264578", "nap": "08", "hilo": "5" },
+  { "id_cliente": "31544002", "arpon": "273659", "nap": "12", "hilo": "1" },
+  { "id_cliente": "31544003", "arpon": "245739", "nap": "05", "hilo": "3" },
+  { "id_cliente": "31544004", "arpon": "296581", "nap": "10", "hilo": "4" },
+  { "id_cliente": "31544005", "arpon": "274612", "nap": "07", "hilo": "6" },
+  { "id_cliente": "31544006", "arpon": "259834", "nap": "01", "hilo": "8" },
+  { "id_cliente": "31544007", "arpon": "243768", "nap": "09", "hilo": "2" },
+  { "id_cliente": "31544008", "arpon": "265971", "nap": "11", "hilo": "5" },
+  { "id_cliente": "31544009", "arpon": "276493", "nap": "06", "hilo": "7" },
+  { "id_cliente": "31544010", "arpon": "281564", "nap": "02", "hilo": "3" },
+  { "id_cliente": "31544011", "arpon": "292317", "nap": "04", "hilo": "6" },
+  { "id_cliente": "31544012", "arpon": "241875", "nap": "08", "hilo": "1" },
+  { "id_cliente": "31544013", "arpon": "268934", "nap": "12", "hilo": "4" },
+  { "id_cliente": "31544014", "arpon": "295437", "nap": "07", "hilo": "8" },
+  { "id_cliente": "31544015", "arpon": "251690", "nap": "10", "hilo": "5" },
+  { "id_cliente": "31544016", "arpon": "285749", "nap": "03", "hilo": "7" },
+  { "id_cliente": "31544017", "arpon": "263598", "nap": "09", "hilo": "2" },
+  { "id_cliente": "31544018", "arpon": "249186", "nap": "06", "hilo": "1" },
+  { "id_cliente": "31544019", "arpon": "271840", "nap": "11", "hilo": "4" }
+]
