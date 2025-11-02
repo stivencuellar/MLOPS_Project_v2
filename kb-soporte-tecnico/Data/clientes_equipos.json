@@ -2,161 +2,211 @@
   {
     "id_cliente": "31544000",
     "nombre": "Diego Cortés",
+    "decodificadores": 4,
     "equipos": [
-      { "tipo": "Router", "modelo": "ZTE ZXHN F680", "estado": "Activo" },
-      { "tipo": "Decodificador", "modelo": "Arris VIP1113", "estado": "Activo" }
+      {"tipo":"Router","modelo":"TP-Link Archer AX10","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Inactivo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544001",
     "nombre": "Camila García",
+    "decodificadores": 2,
     "equipos": [
-      { "tipo": "Router", "modelo": "TP-Link Archer AX10", "estado": "Activo" },
-      { "tipo": "ONT", "modelo": "Huawei EchoLife HG8010H", "estado": "Activo" }
+      {"tipo":"Router","modelo":"Huawei EchoLife HG8145V5","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544002",
     "nombre": "Laura Vargas",
+    "decodificadores": 1,
     "equipos": [
-      { "tipo": "Router", "modelo": "Huawei WS5200", "estado": "Activo" },
-      { "tipo": "Decodificador", "modelo": "Motorola VIP1853", "estado": "Activo" }
+      {"tipo":"Router","modelo":"ZTE ZXHN F680","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544003",
     "nombre": "Sebastián Castro",
+    "decodificadores": 3,
     "equipos": [
-      { "tipo": "Router", "modelo": "ZTE ZXHN F680", "estado": "Activo" },
-      { "tipo": "Decodificador", "modelo": "Arris VIP1113", "estado": "Activo" }
+      {"tipo":"Router","modelo":"TP-Link Archer C6","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Retirado"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544004",
     "nombre": "Tomás Ramírez",
+    "decodificadores": 4,
     "equipos": [
-      { "tipo": "Router", "modelo": "Tenda AC8", "estado": "Activo" },
-      { "tipo": "ONT", "modelo": "Huawei EchoLife HG8546M", "estado": "Activo" }
+      {"tipo":"Router","modelo":"Nokia G-2425G-A","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Suspendido"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544005",
     "nombre": "Felipe Jiménez",
+    "decodificadores": 4,
     "equipos": [
-      { "tipo": "Router", "modelo": "TP-Link Archer C7", "estado": "Activo" },
-      { "tipo": "Decodificador", "modelo": "Arris VIP1113", "estado": "Inactivo" }
+      {"tipo":"Router","modelo":"Huawei EchoLife HG8145X6","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544006",
     "nombre": "Camila Navarro",
+    "decodificadores": 2,
     "equipos": [
-      { "tipo": "Router", "modelo": "Huawei WS5200", "estado": "Activo" },
-      { "tipo": "ONT", "modelo": "Huawei EchoLife HG8010H", "estado": "Activo" }
+      {"tipo":"Router","modelo":"TP-Link Archer AX10","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544007",
     "nombre": "Laura Castro",
+    "decodificadores": 1,
     "equipos": [
-      { "tipo": "Router", "modelo": "Nokia G-240W-F", "estado": "Activo" },
-      { "tipo": "Decodificador", "modelo": "Motorola VIP1853", "estado": "En reparación" }
+      {"tipo":"Router","modelo":"ZTE ZXHN F680","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544008",
     "nombre": "Andrés Cortés",
+    "decodificadores": 1,
     "equipos": [
-      { "tipo": "Router", "modelo": "ZTE ZXHN H298A", "estado": "Activo" },
-      { "tipo": "Decodificador", "modelo": "Arris VIP1113", "estado": "Activo" }
+      {"tipo":"Router","modelo":"Huawei EchoLife HG8145V5","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544009",
     "nombre": "Tomás Reyes",
+    "decodificadores": 2,
     "equipos": [
-      { "tipo": "Router", "modelo": "Huawei WS5200", "estado": "Activo" },
-      { "tipo": "ONT", "modelo": "Huawei EchoLife HG8546M", "estado": "Activo" }
+      {"tipo":"Router","modelo":"TP-Link Archer C6","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544010",
     "nombre": "Mateo Gómez",
+    "decodificadores": 2,
     "equipos": [
-      { "tipo": "Router", "modelo": "ZTE ZXHN F680", "estado": "Activo" },
-      { "tipo": "Decodificador", "modelo": "Arris VIP1113", "estado": "Activo" }
+      {"tipo":"Router","modelo":"Nokia G-2425G-A","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544011",
     "nombre": "Carlos Jiménez",
+    "decodificadores": 4,
     "equipos": [
-      { "tipo": "Router", "modelo": "TP-Link Archer AX10", "estado": "Activo" },
-      { "tipo": "Decodificador", "modelo": "Motorola VIP1853", "estado": "En reparación" }
+      {"tipo":"Router","modelo":"Huawei EchoLife HG8145X6","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544012",
     "nombre": "Juan Mejía",
+    "decodificadores": 4,
     "equipos": [
-      { "tipo": "Router", "modelo": "Huawei WS5200", "estado": "Activo" },
-      { "tipo": "ONT", "modelo": "Huawei EchoLife HG8010H", "estado": "Activo" }
+      {"tipo":"Router","modelo":"TP-Link Archer AX10","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544013",
     "nombre": "Sebastián Cortés",
+    "decodificadores": 1,
     "equipos": [
-      { "tipo": "Router", "modelo": "Tenda AC10", "estado": "Activo" },
-      { "tipo": "Decodificador", "modelo": "Arris VIP1113", "estado": "Activo" }
+      {"tipo":"Router","modelo":"ZTE ZXHN F680","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544014",
     "nombre": "Felipe Navarro",
+    "decodificadores": 1,
     "equipos": [
-      { "tipo": "Router", "modelo": "ZTE ZXHN H298A", "estado": "Activo" },
-      { "tipo": "ONT", "modelo": "Huawei EchoLife HG8546M", "estado": "Activo" }
+      {"tipo":"Router","modelo":"TP-Link Archer C6","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544015",
     "nombre": "Laura Martínez",
+    "decodificadores": 1,
     "equipos": [
-      { "tipo": "Router", "modelo": "TP-Link Archer C6", "estado": "Activo" },
-      { "tipo": "Decodificador", "modelo": "Motorola VIP1853", "estado": "Activo" }
+      {"tipo":"Router","modelo":"Nokia G-2425G-A","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544016",
     "nombre": "Tomás Rojas",
+    "decodificadores": 4,
     "equipos": [
-      { "tipo": "Router", "modelo": "Nokia G-240W-F", "estado": "Activo" },
-      { "tipo": "Decodificador", "modelo": "Arris VIP1113", "estado": "Activo" }
+      {"tipo":"Router","modelo":"Huawei EchoLife HG8145V5","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544017",
     "nombre": "Camila Mejía",
+    "decodificadores": 4,
     "equipos": [
-      { "tipo": "Router", "modelo": "ZTE ZXHN F680", "estado": "En reparación" },
-      { "tipo": "ONT", "modelo": "Huawei EchoLife HG8010H", "estado": "Activo" }
+      {"tipo":"Router","modelo":"TP-Link Archer AX10","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544018",
     "nombre": "Sebastián Pérez",
+    "decodificadores": 3,
     "equipos": [
-      { "tipo": "Router", "modelo": "TP-Link Archer AX10", "estado": "Activo" },
-      { "tipo": "Decodificador", "modelo": "Motorola VIP1853", "estado": "Activo" }
+      {"tipo":"Router","modelo":"TP-Link Archer AX10","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"}
     ]
   },
   {
     "id_cliente": "31544019",
     "nombre": "Julián Ramírez",
+    "decodificadores": 2,
     "equipos": [
-      { "tipo": "Router", "modelo": "Huawei WS5200", "estado": "Activo" },
-      { "tipo": "Decodificador", "modelo": "Arris VIP1113", "estado": "Activo" }
+      {"tipo":"Router","modelo":"Huawei EchoLife HG8145X6","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Arris VIP2262","estado":"Activo"},
+      {"tipo":"Decodificador","modelo":"Motorola VIP1853","estado":"Activo"}
     ]
   }
 ]

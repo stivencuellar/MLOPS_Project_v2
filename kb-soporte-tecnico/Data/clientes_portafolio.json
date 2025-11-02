@@ -4,6 +4,7 @@
     "nombre": "Diego Cortés",
     "velocidad": "1Gb",
     "decodificadores": 4,
+    "router" : 1,
     "paquetes": [
       "HBO",
       "Netflix"
@@ -14,6 +15,7 @@
     "nombre": "Camila García",
     "velocidad": "200Mb",
     "decodificadores": 2,
+    "router" : 1,
     "paquetes": [
       "Netflix"
     ]
@@ -23,6 +25,7 @@
     "nombre": "Laura Vargas",
     "velocidad": "200Mb",
     "decodificadores": 1,
+    "router" : 1,
     "paquetes": [
       "Netflix"
     ]
@@ -32,6 +35,7 @@
     "nombre": "Sebastián Castro",
     "velocidad": "1Gb",
     "decodificadores": 3,
+    "router" : 1,
     "paquetes": [
       "HBO",
       "Netflix"
@@ -42,6 +46,7 @@
     "nombre": "Tomás Ramírez",
     "velocidad": "500Mb",
     "decodificadores": 4,
+    "router" : 1,
     "paquetes": [
       "Netflix"
     ]
@@ -51,6 +56,7 @@
     "nombre": "Felipe Jiménez",
     "velocidad": "500Mb",
     "decodificadores": 4,
+    "router" : 1,
     "paquetes": []
   },
   {
@@ -58,6 +64,7 @@
     "nombre": "Camila Navarro",
     "velocidad": "300Mb",
     "decodificadores": 2,
+    "router" : 1,
     "paquetes": [
       "Disney+"
     ]
@@ -67,6 +74,7 @@
     "nombre": "Laura Castro",
     "velocidad": "600Mb",
     "decodificadores": 1,
+    "router" : 1,
     "paquetes": [
       "Disney+"
     ]
@@ -76,6 +84,7 @@
     "nombre": "Andrés Cortés",
     "velocidad": "300Mb",
     "decodificadores": 1,
+    "router" : 1,
     "paquetes": []
   },
   {
@@ -83,6 +92,7 @@
     "nombre": "Tomás Reyes",
     "velocidad": "500Mb",
     "decodificadores": 2,
+    "router" : 1,
     "paquetes": [
       "Star+"
     ]
@@ -92,6 +102,7 @@
     "nombre": "Mateo Gómez",
     "velocidad": "1Gb",
     "decodificadores": 2,
+    "router" : 1,
     "paquetes": [
       "Disney+"
     ]
@@ -101,6 +112,7 @@
     "nombre": "Carlos Jiménez",
     "velocidad": "200Mb",
     "decodificadores": 4,
+    "router" : 1,
     "paquetes": [
       "Paramount+"
     ]
@@ -110,6 +122,7 @@
     "nombre": "Juan Mejía",
     "velocidad": "1Gb",
     "decodificadores": 4,
+    "router" : 1,
     "paquetes": [
       "HBO",
       "Netflix"
@@ -120,6 +133,7 @@
     "nombre": "Sebastián Cortés",
     "velocidad": "500Mb",
     "decodificadores": 1,
+    "router" : 1,
     "paquetes": [
       "Disney+"
     ]
@@ -129,6 +143,7 @@
     "nombre": "Felipe Navarro",
     "velocidad": "1Gb",
     "decodificadores": 1,
+    "router" : 1,
     "paquetes": [
       "Netflix"
     ]
@@ -138,6 +153,7 @@
     "nombre": "Laura Martínez",
     "velocidad": "300Mb",
     "decodificadores": 1,
+    "router" : 1,
     "paquetes": [
       "Paramount+"
     ]
@@ -147,6 +163,7 @@
     "nombre": "Tomás Rojas",
     "velocidad": "1Gb",
     "decodificadores": 4,
+    "router" : 1,
     "paquetes": [
       "Netflix"
     ]
@@ -156,6 +173,7 @@
     "nombre": "Camila Mejía",
     "velocidad": "600Mb",
     "decodificadores": 4,
+    "router" : 1,
     "paquetes": [
       "Paramount+"
     ]
@@ -165,6 +183,7 @@
     "nombre": "Sebastián Pérez",
     "velocidad": "100Mb",
     "decodificadores": 3,
+    "router" : 1,
     "paquetes": [
       "Paramount+"
     ]
@@ -174,6 +193,7 @@
     "nombre": "Julián Ramírez",
     "velocidad": "600Mb",
     "decodificadores": 2,
+    "router" : 1,
     "paquetes": [
       "Paramount+"
     ]
